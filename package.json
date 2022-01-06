@@ -4,7 +4,7 @@
   "description": "Visual Debugger Hooked to Architecture Diagrams",
   "publisher": "CodeGram",
   "icon": "images/Logo.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.63.0"
   },
